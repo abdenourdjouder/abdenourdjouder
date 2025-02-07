@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/user-attachments/assets/ee49c959-b532-4da4-bd96-88f45fb6da10)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdenourdjouder&langs_count=10&hide=javascript,html,php,python)
